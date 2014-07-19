@@ -19,5 +19,3 @@ while True:
           sys.exit(0)
       else:
           print event
-
-PyQt4.
